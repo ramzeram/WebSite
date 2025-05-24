@@ -1,1 +1,118 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+  color: #333;
+}
 
+header {
+  background: #004080;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+
+.logo {
+  width: 100px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  padding: 2em;
+  background: white;
+}
+
+footer {
+  background: #222;
+  color: #ccc;
+  text-align: center;
+  padding: 1em;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.banner {
+  width: 100%;
+  height: auto;
+}
+table.tabla-productos {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1em;
+}
+
+table.tabla-productos th,
+table.tabla-productos td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+  vertical-align: middle;
+}
+
+table.tabla-productos thead {
+  background-color: #004080;
+  color: white;
+}
+
+table.tabla-productos tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+table.tabla-productos img {
+  width: 80px;
+  height: auto;
+  border-radius: 5px;
+}
+.redes-sociales {
+  margin-top: 1em;
+}
+
+.redes-sociales a {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.redes-sociales img {
+  width: 32px;
+  height: 32px;
+  transition: transform 0.3s ease;
+}
+
+.redes-sociales img:hover {
+  transform: scale(1.1);
+}
+.marketplace-enlace {
+  font-size: 1rem;
+  margin-bottom: 1em;
+  background-color: #eef6ff;
+  padding: 10px;
+  border-left: 4px solid #1877f2;
+  border-radius: 5px;
+}
+
+.marketplace-enlace a {
+  color: #1877f2;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.marketplace-enlace a:hover {
+  text-decoration: underline;
+}
