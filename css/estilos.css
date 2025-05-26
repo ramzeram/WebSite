@@ -107,15 +107,6 @@ table.tabla-productos img {
   border-radius: 5px;
 }
 
-.marketplace-enlace a {
-  color: #1877f2;
-  font-weight: bold;
-  text-decoration: none;
-}
-
-.marketplace-enlace a:hover {
-  text-decoration: underline;
-}
 .enlaces-marketplaces {
   margin-top: 1em;
   display: flex;
@@ -134,4 +125,21 @@ table.tabla-productos img {
 
 .enlaces-marketplaces img:hover {
   transform: scale(1.05);
+}.marketplace-enlace {
+  font-size: 1rem;
+  margin-bottom: 1em;
+  background-color: #eef6ff;
+  padding: 10px;
+  border-left: 4px solid #1877f2;
+  border-radius: 5px;
+}
+
+.marketplace-enlace a {
+  color: #1877f2;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.marketplace-enlace a:hover {
+  text-decoration: underline;
 }
