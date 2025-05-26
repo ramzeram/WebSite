@@ -116,3 +116,18 @@ table.tabla-productos img {
 .marketplace-enlace a:hover {
   text-decoration: underline;
 }
+.enlaces-marketplaces img {
+  transition: transform 0.2s ease;
+}
+
+.enlaces-marketplaces img:hover {
+  transform: scale(1.05);
+}
+.marketplace-enlace {
+  font-size: 1rem;
+  margin-bottom: 1em;
+  background-color: #eef6ff;
+  padding: 10px;
+  border-left: 4px solid #1877f2;
+  border-radius: 5px;
+}
