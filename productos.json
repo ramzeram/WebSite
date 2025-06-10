@@ -1,0 +1,1034 @@
+[
+  {
+    "﻿id": "1",
+    "nombre": "ACE FELLOWES 35250 PARA TRITURADORA 12 ONZAS 35ML",
+    "existencias": "2",
+    "precio": "239",
+    "imagen": "img/Felloesaceite.png",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "2",
+    "nombre": "ADP ADATA H/ADS-BRACKET_D/BLUE_R00 2.5 A 3.5",
+    "existencias": "101",
+    "precio": "60",
+    "imagen": "img/bracketadata2.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "3",
+    "nombre": "ADP BROBOTIX 764786 CCTV BNC COAXIAL MACHO",
+    "existencias": "27",
+    "precio": "10",
+    "imagen": "img/Brobobnc1.jpg",
+    "ficha_tecnica": "https://pimcontent1.ingrammicro.com/mx/assets/media/brochure/g5800yr_764786.pdf"
+  },
+  {
+    "﻿id": "4",
+    "nombre": "ADP ELEGATE CON.30 EXTENSOR HDMI POR UTP 30M",
+    "existencias": "39",
+    "precio": "59",
+    "imagen": "img/extele3.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "5",
+    "nombre": "ADP ELEGATE CON.36 EXTENSOR USB POR UTP 50M",
+    "existencias": "53",
+    "precio": "69",
+    "imagen": "img/elegateexten2.webp",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "6",
+    "nombre": "ADP ELEGATE WI.06 USB BLUETOOTH 5.0 PARA PC",
+    "existencias": "2",
+    "precio": "49",
+    "imagen": "img/eleblue51.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "7",
+    "nombre": "ADP HUAWEI AP52 USB TIPO C A MICRO USB",
+    "existencias": "18",
+    "precio": "79",
+    "imagen": "img/huaweiv8.jpeg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "8",
+    "nombre": "ADP KINGSTON SNA-BR2/35 BRACKET 2.5 A 3.5",
+    "existencias": "44",
+    "precio": "55",
+    "imagen": "img/KingstonAdap.jpg",
+    "ficha_tecnica": "https://pimcontent1.ingrammicro.com/mx/assets/media/brochure/0b34549_sna_br2_35.pdf"
+  },
+  {
+    "﻿id": "9",
+    "nombre": "ADP LENOVO 4X90S91831 USB-C A RJ45 GIGABIT ETHERNET",
+    "existencias": "1",
+    "precio": "899",
+    "imagen": "img/lenovoethernettipoc.webp",
+    "ficha_tecnica": "https://icecat.cn/es/p/lenovo/4x90s91831/network+cards-0193124150345-4x90s91831-61145395.html"
+  },
+  {
+    "﻿id": "10",
+    "nombre": "ADP STARTECH BRACKET MONTAJE DD 3.5 A 5.25",
+    "existencias": "6",
+    "precio": "89",
+    "imagen": "img/bracket351.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/bracket_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "11",
+    "nombre": "ADP STARTECH BRACKET125PT BAHIA 3.5",
+    "existencias": "4",
+    "precio": "179",
+    "imagen": "img/bracketstar.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/bracket125pt_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "12",
+    "nombre": "ADP STARTECH BRACKETFDBK KIT MONTAJE 3.5 A 5.25",
+    "existencias": "2",
+    "precio": "179",
+    "imagen": "img/bracketstartech.webp",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/bracketfdbk_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "13",
+    "nombre": "ADP STARTECH EPS48ADAP DE FUENTE DE PODER 4 A 8 PINES",
+    "existencias": "2",
+    "precio": "109",
+    "imagen": "img/cabmolex8pin1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/eps48adap_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "14",
+    "nombre": "ADP STARTECH GC46FMKEY USB A PS2",
+    "existencias": "1",
+    "precio": "69",
+    "imagen": "img/ps2atrtech.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/gc46fmkey_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "15",
+    "nombre": "ADP STARTECH GCMDP2DPMF CONVERTIDOR MINI DP A DP",
+    "existencias": "1",
+    "precio": "569",
+    "imagen": "img/minidpadp1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/gcmdp2dpmf_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "16",
+    "nombre": "ADP STARTECH HDDVIFM8IN DVI-D MACHO A HDMI HEMBRA",
+    "existencias": "1",
+    "precio": "289",
+    "imagen": "img/startechdvidhdmi1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/hddvifm8in_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "17",
+    "nombre": "ADP STARTECH MUYHSMFFADW AUDIO Y MICROFONO 3.5MM",
+    "existencias": "7",
+    "precio": "50",
+    "imagen": "img/startechmuyh1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/muyhsmffadw_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "18",
+    "nombre": "ADP STARTECH USB2TYPEM2M USB A COAXIAL BARREL 2MTS 5V",
+    "existencias": "2",
+    "precio": "139",
+    "imagen": "img/barrel1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/usb2typem2m_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "19",
+    "nombre": "ADP XTECH XTC-355 MICRO MINI HDMI A HDMI 1080P",
+    "existencias": "68",
+    "precio": "75",
+    "imagen": "img/xtc355.jpeg",
+    "ficha_tecnica": "https://img.cartimex.com/v2/pdf/XTC-355.pdf"
+  },
+  {
+    "﻿id": "20",
+    "nombre": "ADT STARTECH MUYHSMFF DIVISOR AUDIO MIC",
+    "existencias": "7",
+    "precio": "189",
+    "imagen": "img/muyh1.webp",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/muyhsmff_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "21",
+    "nombre": "AIR PERFECT CHOICE PC-030348 COMPRIMIDO 374ML",
+    "existencias": "6",
+    "precio": "95",
+    "imagen": "img/perfecaire.jpg",
+    "ficha_tecnica": "https://pimcontent1.ingrammicro.com/mx/assets/media/brochure/0b45557_pc-030348.pdf"
+  },
+  {
+    "﻿id": "22",
+    "nombre": "AUD APPLE MWTY3AM/A ALAMBRICOS LIGHTNING MANOS LIBRES",
+    "existencias": "1",
+    "precio": "650",
+    "imagen": "img/Applelightorig.jpg",
+    "ficha_tecnica": "https://pimcontent1.ingrammicro.com/mx/assets/media/brochure/0b42290_0b42290.pdf"
+  },
+  {
+    "﻿id": "23",
+    "nombre": "AUD EASYLINE EL-993148 ALAMBRICOS 3.55MM CON MICROFONO",
+    "existencias": "1",
+    "precio": "79",
+    "imagen": "img/audeasyalam.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "24",
+    "nombre": "BOB ENSON 12251B305 CABLE UTP NEGRA 305MTS CAT 5E",
+    "existencias": "1",
+    "precio": "960",
+    "imagen": "img/ensonutpcat5e.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "25",
+    "nombre": "BOC PERFECT CHOICE PC-112860 BAFLE BLUETOOTH",
+    "existencias": "2",
+    "precio": "480",
+    "imagen": "img/Bocperfectbaf2.jpg",
+    "ficha_tecnica": "https://pimcontent1.ingrammicro.com/mx/assets/media/brochure/a1700wc_pc-112860-festa-plus-_ft_.pdf"
+  },
+  {
+    "﻿id": "26",
+    "nombre": "BRA COOLERMASTER 603005420-GP SOC 1700 ENFRIAMIENTO",
+    "existencias": "2",
+    "precio": "130",
+    "imagen": "img/cooler5420.webp",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "27",
+    "nombre": "BRA COOLERMASTER 603005870-GP PARA SOCKET 1700",
+    "existencias": "2",
+    "precio": "130",
+    "imagen": "img/coolermasterbra2.webp",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "28",
+    "nombre": "CAB ADATA ACA3AL-100CM-CSV USB A USB TIPO C 1M PLATA",
+    "existencias": "2",
+    "precio": "149",
+    "imagen": "img/adatausbcausba2.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "29",
+    "nombre": "CAB BROBOTIX 102242 MOLEX ENERGIA SATA 20CM",
+    "existencias": "24",
+    "precio": "39",
+    "imagen": "img/Brobomolex1.jpg",
+    "ficha_tecnica": "https://pimcontent1.ingrammicro.com/mx/assets/media/brochure/30_g5800my_110946690.pdf"
+  },
+  {
+    "﻿id": "30",
+    "nombre": "CAB ELEGATE WI.01.3M USB V3 MINI USB 3MTS",
+    "existencias": "49",
+    "precio": "30",
+    "imagen": "img/elegatecabv33m2.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "31",
+    "nombre": "CAB ELEGATE WI.156 TIPOC A LIGHTNING 1MT",
+    "existencias": "10",
+    "precio": "50",
+    "imagen": "img/elegateclight.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "32",
+    "nombre": "CAB ELEGATE WI.22 VIDEO VGA 1.5MTS",
+    "existencias": "10",
+    "precio": "30",
+    "imagen": "img/vga272.jpeg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "33",
+    "nombre": "CAB ELEGATE WI.26 DE CORRIENTE MICKEY MOUSE 1.5MTS",
+    "existencias": "24",
+    "precio": "29",
+    "imagen": "img/elegatetri1.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "34",
+    "nombre": "CAB HP 4Z527AA USB-C A RJ45 GIGABIT",
+    "existencias": "2",
+    "precio": "479",
+    "imagen": "img/redhp3.jpg",
+    "ficha_tecnica": "https://pimcontent1.ingrammicro.com/mx/assets/media/brochure/c4500am_4z527aa.pdf"
+  },
+  {
+    "﻿id": "35",
+    "nombre": "CAB PROVISION PR-C14 PULPO 4 SALIDAS",
+    "existencias": "34",
+    "precio": "40",
+    "imagen": "img/provisionprc14.jpeg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "36",
+    "nombre": "CAB SATARTECH SLSATAADAP6 SLIMLINE SATA CON ALIMENTACION 15CM",
+    "existencias": "1",
+    "precio": "229",
+    "imagen": "img/slimline1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/slsataadap6_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "37",
+    "nombre": "CAB STARTECH ATX24POWEXT EXTENSION 20CM ALIMENTACION 24PIN",
+    "existencias": "2",
+    "precio": "149",
+    "imagen": "img/ext24pin.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/atx24powext_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "38",
+    "nombre": "CAB STARTECH ATXP4EXT ENERGIA 12V A 4PIN",
+    "existencias": "1",
+    "precio": "149",
+    "imagen": "img/atx4pin1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/atxp4ext_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "39",
+    "nombre": "CAB STARTECH DSATPMOLP4 ALIMENTACION SATA SPLITTER 18AWG",
+    "existencias": "2",
+    "precio": "399",
+    "imagen": "img/dsatmol1.webp",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/dsatpmolp4_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "40",
+    "nombre": "CAB STARTECH EPS8EXT EXTENSION 20CM ALIMENTACION 8 PINES",
+    "existencias": "2",
+    "precio": "129",
+    "imagen": "img/eps8ext.webp",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/eps8ext_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "41",
+    "nombre": "CAB STARTECH HDMIDVIMM6 HDMI A DVI-D 1.8 MTS",
+    "existencias": "2",
+    "precio": "329",
+    "imagen": "img/startechhdmidvi.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/hdmidvimm6_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "42",
+    "nombre": "CAB STARTECH LP4PCIEXADAP ADAPTADOR LP4 A 6 PIN PCI EXPRESS",
+    "existencias": "1",
+    "precio": "139",
+    "imagen": "img/lp4pciexp1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/lp4pciexadap_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "43",
+    "nombre": "CAB STARTECH LP4SATAFM12 MOLEX HEMBRA",
+    "existencias": "1",
+    "precio": "119",
+    "imagen": "img/lp4sata1.webp",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/lp4satafm12_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "44",
+    "nombre": "CAB STARTECH LSATA12 TRANSFERENCIA DATOS SATA 30CM",
+    "existencias": "1",
+    "precio": "79",
+    "imagen": "img/startechlsata12.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/lsata12_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "45",
+    "nombre": "CAB STARTECH LSATA18 TRANSFERENCIA DATOS SATA 45CM",
+    "existencias": "1",
+    "precio": "89",
+    "imagen": "img/Startechsata182.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/lsata18_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "46",
+    "nombre": "CAB STARTECH MU2MMFS EXTENSION AUDIO 2M",
+    "existencias": "2",
+    "precio": "129",
+    "imagen": "img/startechaudio.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/mu2mmfs_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "47",
+    "nombre": "CAB STARTECH MU6MMRCA AUDIO 3.5MM RCA",
+    "existencias": "2",
+    "precio": "89",
+    "imagen": "img/rcamacho1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/mu6mmrca_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "48",
+    "nombre": "CAB STARTECH MUFMRCA ESTEREO AUDIO 2XRCA",
+    "existencias": "4",
+    "precio": "89",
+    "imagen": "img/mufm1.webp",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/mufmrca_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "49",
+    "nombre": "CAB STARTECH MUHSMF2M EXTENSION AUDIO M/F",
+    "existencias": "1",
+    "precio": "190",
+    "imagen": "img/extension4pin1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/muhsmf2m_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "50",
+    "nombre": "CAB STARTECH MUY1MFFS DIVISOR AUDIO",
+    "existencias": "1",
+    "precio": "109",
+    "imagen": "img/startechmuy11.webp",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/muy1mffs_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "51",
+    "nombre": "CAB STARTECH PAC1013 EXTENSION ENERGIA NEMA 5-15P",
+    "existencias": "3",
+    "precio": "135",
+    "imagen": "img/startechpac10.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/pac1013_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "52",
+    "nombre": "CAB STARTECH PXT10112 ENERGIA PC 3.6MTS",
+    "existencias": "1",
+    "precio": "229",
+    "imagen": "img/starenergia1.webp",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/pxt10112_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "53",
+    "nombre": "CAB STARTECH PXT10125 ENERGIA PC 7.6MTS",
+    "existencias": "1",
+    "precio": "329",
+    "imagen": "img/starenergia1.webp",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/pxt10125_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "54",
+    "nombre": "CAB STARTECH PXT101NB3S ENERGIA NEMA 5-15P 1.8MTS",
+    "existencias": "1",
+    "precio": "149",
+    "imagen": "img/startechmickey.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/pxt101nb3s_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "55",
+    "nombre": "CAB STARTECH PYO2LP4LSATA MOLEX SATA ENERGIA CON SEGURO",
+    "existencias": "1",
+    "precio": "109",
+    "imagen": "img/pyolsataseg1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/pyo2lp4lsata_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "56",
+    "nombre": "CAB STARTECH PYO2LSATA SPLITTER DIVISOR SATA ALIMENTACION",
+    "existencias": "2",
+    "precio": "139",
+    "imagen": "img/pyo2lsata.webp",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/pyo2lsata_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "57",
+    "nombre": "CAB STARTECH PYO2SATA DIVISOR ENERGIA SATA",
+    "existencias": "1",
+    "precio": "139",
+    "imagen": "img/pyo2sata1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/pyo2sata_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "58",
+    "nombre": "CAB STARTECH SAS729PW18 SAS 29 PIN A SATA CON ENERGIA LP4",
+    "existencias": "1",
+    "precio": "379",
+    "imagen": "img/sasstar1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/sas729pw18_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "59",
+    "nombre": "CAB STARTECH SATA22PEXT EXTENSION SATA MACHO HEMBRA",
+    "existencias": "2",
+    "precio": "229",
+    "imagen": "img/sataext1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/sata22pext_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "60",
+    "nombre": "CAB STARTECH SATA24RA1 SERIAL ATA EN ANGULO 60CM",
+    "existencias": "3",
+    "precio": "99",
+    "imagen": "img/satamolex.webp",
+    "ficha_tecnica": "https://sgcdn.startech.com/005329/media/sets/SATA24RA1/Diagram/SATA24RA1_Diagram.PDF"
+  },
+  {
+    "﻿id": "61",
+    "nombre": "CAB STARTECH SATAPOWADAP ENERGIA MOLEX SATA 15CM",
+    "existencias": "1",
+    "precio": "59",
+    "imagen": "img/molexstar1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/satapowadap_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "62",
+    "nombre": "CAB STARTECH SATPCIEXADAP ALIMENTACION SATA A 6 PINES PCI",
+    "existencias": "1",
+    "precio": "179",
+    "imagen": "img/starsatpci1.png",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/satpciexadap_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "63",
+    "nombre": "CAB STARTECH THINTOS10 TOSLINK OPTICO AUDIO CABL DIGITAL",
+    "existencias": "1",
+    "precio": "109",
+    "imagen": "img/toslink.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/thintos10_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "64",
+    "nombre": "CAB STARTECH THINTOS15 TOSLINK 4.6M",
+    "existencias": "3",
+    "precio": "150",
+    "imagen": "img/toslink.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/thintos15_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "65",
+    "nombre": "CAB STARTECH USB2HABMY6 USB EN Y A MINI USB 1.8MTS",
+    "existencias": "2",
+    "precio": "99",
+    "imagen": "img/startusb2habmy1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/usb2habmy6_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "66",
+    "nombre": "CAB STARTECH USB3AAEXT10M EXTENSION USB 3.0 10M",
+    "existencias": "1",
+    "precio": "3349",
+    "imagen": "img/extstar301.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/usb3aaext10m_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "67",
+    "nombre": "CAB STARTECH USB3CAB1M USB 3.0 A-B 1M",
+    "existencias": "1",
+    "precio": "239",
+    "imagen": "img/usb3startech.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/usb3cab1m_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "68",
+    "nombre": "CAB STARTECH USB3S2SAT3CB ADAPTADOR SATA USB",
+    "existencias": "1",
+    "precio": "350",
+    "imagen": "img/startechsata1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/usb3s2sat3cb_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "69",
+    "nombre": "CAB STARTECH USB3SAB1MRA USB A-B 3.0 ACODADO 1M",
+    "existencias": "1",
+    "precio": "210",
+    "imagen": "img/usb3acodado1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/usb3sab1mra_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "70",
+    "nombre": "CAB STARTECH USBAMB2MD MINI USB ANGULO 2MTS",
+    "existencias": "2",
+    "precio": "99",
+    "imagen": "img/startacodadov31.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/usbamb2md_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "71",
+    "nombre": "CAB STARTECH USBMUSBFM1 MINI USB A USB HEMBRA",
+    "existencias": "10",
+    "precio": "119",
+    "imagen": "img/startechminib1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/usbmusbfm1_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "72",
+    "nombre": "CAB TRIPPLITE P311-006 EXTENSION AUDIO 1.8M",
+    "existencias": "6",
+    "precio": "69",
+    "imagen": "img/extension4pin1.jpg",
+    "ficha_tecnica": "https://assets.tripplite.com/product-pdfs/en/p311006.pdf"
+  },
+  {
+    "﻿id": "73",
+    "nombre": "CAB TRIPPLITE P312-015 AUXILIAR 4.6M",
+    "existencias": "2",
+    "precio": "119",
+    "imagen": "img/auxtripp1.jpg",
+    "ficha_tecnica": "https://assets.tripplite.com/product-pdfs/en/p312015.pdf"
+  },
+  {
+    "﻿id": "74",
+    "nombre": "CAB TRIPPLITE P312-025 AUXILIAR 3.5MM 7.6M",
+    "existencias": "2",
+    "precio": "199",
+    "imagen": "img/auxtripp1.jpg",
+    "ficha_tecnica": "https://assets.tripplite.com/product-pdfs/en/p312025.pdf"
+  },
+  {
+    "﻿id": "75",
+    "nombre": "CAB TRIPPLITE P312-050 AUXILIAR 3.5MM 15MTS",
+    "existencias": "2",
+    "precio": "269",
+    "imagen": "img/auxtripp1.jpg",
+    "ficha_tecnica": "https://assets.tripplite.com/product-pdfs/en/p312050.pdf"
+  },
+  {
+    "﻿id": "76",
+    "nombre": "CAB TRIPPLITE P314-012 AUDIO 3.5MM A 2 RCA MACHO",
+    "existencias": "1",
+    "precio": "119",
+    "imagen": "img/audiotripp1.jpg",
+    "ficha_tecnica": "https://assets.tripplite.com/product-pdfs/en/p314012.pdf"
+  },
+  {
+    "﻿id": "77",
+    "nombre": "CAB TRIPPLITE P318-06N-FMM DIVISOR AUDIO MICROFONO HEMBRA",
+    "existencias": "7",
+    "precio": "169",
+    "imagen": "img/Tripconaudio1.jpg",
+    "ficha_tecnica": "https://www.eaton.com/us/en-us/skuPage.P318-06N-FMM.pdf"
+  },
+  {
+    "﻿id": "78",
+    "nombre": "CAB TRIPPLITE P318-06N-MFF DIVISOR AUDIO MICROFONO",
+    "existencias": "13",
+    "precio": "169",
+    "imagen": "img/tripdiv1.jpg",
+    "ficha_tecnica": "https://assets.tripplite.com/product-pdfs/en/p31806nmff.pdf"
+  },
+  {
+    "﻿id": "79",
+    "nombre": "CAB TRIPPLITE P430-006 CISCO CONSOLA DB9 RJ45 1.8MTS",
+    "existencias": "1",
+    "precio": "419",
+    "imagen": "img/tripcabcisco.jpg",
+    "ficha_tecnica": "https://assets.tripplite.com/product-pdfs/en/p430006.pdf"
+  },
+  {
+    "﻿id": "80",
+    "nombre": "CAB TRIPPLITE P560-006 DVI D 1.8M",
+    "existencias": "2",
+    "precio": "219",
+    "imagen": "img/dvid.jpg",
+    "ficha_tecnica": "https://assets.tripplite.com/product-pdfs/en/p560006.pdf"
+  },
+  {
+    "﻿id": "81",
+    "nombre": "CAB TRIPPLITE U322-006-BK USB A-B 3.0",
+    "existencias": "1",
+    "precio": "169",
+    "imagen": "img/tripusbB1.jpg",
+    "ficha_tecnica": "https://assets.tripplite.com/product-pdfs/en/u322006bk.pdf"
+  },
+  {
+    "﻿id": "82",
+    "nombre": "CAB XTECH XTC-310 ENERGIA MOLEX SATA",
+    "existencias": "56",
+    "precio": "35",
+    "imagen": "img/xtechmolex.jpeg",
+    "ficha_tecnica": "https://xtech-frontend.s3.amazonaws.com/media/docs/XTC-310_Data_Sheet_ENG.pdf"
+  },
+  {
+    "﻿id": "83",
+    "nombre": "CAB XTECH XTC-319 SERIAL DB9",
+    "existencias": "33",
+    "precio": "119",
+    "imagen": "img/xtechusbserial2.jpg",
+    "ficha_tecnica": "https://xtech-frontend.s3.amazonaws.com/media/docs/XTC-319_Data_Sheet_ENG.pdf"
+  },
+  {
+    "﻿id": "84",
+    "nombre": "CAB XTECH XTC-326 ACODADO TRANSFERENCIA DE DATOS SATA",
+    "existencias": "56",
+    "precio": "35",
+    "imagen": "img/xtc326.jpg",
+    "ficha_tecnica": "https://xtech-frontend.s3.amazonaws.com/media/docs/XTC-326_Data_Sheet_SPA.pdf"
+  },
+  {
+    "﻿id": "85",
+    "nombre": "CAN KENSINGTON K64444WW SEGURIDAD NANO SERVER PARA LAPTOP",
+    "existencias": "1",
+    "precio": "749",
+    "imagen": "img/CandadoKensigton1.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "86",
+    "nombre": "CAR ELEGATE CH.100 USB-C CON CABLE 1M",
+    "existencias": "7",
+    "precio": "80",
+    "imagen": "img/CH100.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "87",
+    "nombre": "CAR ELEGATE CH.87 TIPO C 20W",
+    "existencias": "10",
+    "precio": "65",
+    "imagen": "img/elecargc1.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "88",
+    "nombre": "CAR MOTARRO MQ025 12 SEPARADORES CARTA",
+    "existencias": "6",
+    "precio": "189",
+    "imagen": "img/elecarpeta.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "89",
+    "nombre": "CON ELEGATE WI.08.6 RJ45 PLUG CAT6 100PZS",
+    "existencias": "33",
+    "precio": "75",
+    "imagen": "img/Elegateplugrj45.webp",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "90",
+    "nombre": "CON VORAGO PLUG-100 PLUG RJ45 CAT 5E 100PZS",
+    "existencias": "28",
+    "precio": "150",
+    "imagen": "img/voragoplug51.webp",
+    "ficha_tecnica": "https://voragolive.com/media/vorago/descargables/plug-10069301618843324.pdf"
+  },
+  {
+    "﻿id": "91",
+    "nombre": "CUB TARGUS AWH012US-51 SPY GUARD",
+    "existencias": "1",
+    "precio": "79",
+    "imagen": "img/targusspy1.png",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "92",
+    "nombre": "EXT ELEGATE CON.18.2 SPLITTER DIVISOR HDMI 1X2 1080P",
+    "existencias": "3",
+    "precio": "100",
+    "imagen": "img/elegatesplitterhdmi2.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "93",
+    "nombre": "GRA ACCO P6246 ESTANDAR 5000PZS",
+    "existencias": "5",
+    "precio": "25",
+    "imagen": "img/grapaacco1.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "94",
+    "nombre": "HUB ELEGATE WL.29 3 PUERTOS USB Y 1 RJ45",
+    "existencias": "10",
+    "precio": "95",
+    "imagen": "img/Elehubrj453.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "95",
+    "nombre": "HUB STARTECH ST43004UA 4 PUERTOS USB 3.0",
+    "existencias": "1",
+    "precio": "679",
+    "imagen": "img/hubstartech1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/st43004ua_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "96",
+    "nombre": "KIT LOGITECH MK120 TECLADO Y MOUSE ALAMBRICOS USB 920-004428",
+    "existencias": "2",
+    "precio": "459",
+    "imagen": "img/mk1202.png",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "97",
+    "nombre": "KIT LOGITECH MK345 TEC Y MOUSE INALAMBRICOS 920-007820",
+    "existencias": "1",
+    "precio": "1319",
+    "imagen": "img/mk345.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "98",
+    "nombre": "LAP BEROL 10103012548 PREFESIONAL PARA DIBUJO HB 12PZS",
+    "existencias": "2",
+    "precio": "159",
+    "imagen": "img/beroltur.webp",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "99",
+    "nombre": "LEC ELEGATE LT.01 MEMORIAS SD, MICRO SD A USB",
+    "existencias": "9",
+    "precio": "59",
+    "imagen": "img/elemul2.png",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "100",
+    "nombre": "LIQ SCOTCH 6065 ADHESIVO SPRAY MOUNT",
+    "existencias": "4",
+    "precio": "299",
+    "imagen": "img/spraymount.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "101",
+    "nombre": "LIQ SCOTCH 7716 ADESHIVO SUPER 77",
+    "existencias": "2",
+    "precio": "339",
+    "imagen": "img/super77.webp",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "102",
+    "nombre": "MEM ADATA AUSDH16GUICL10-RA1 MICRO SD 16GB",
+    "existencias": "5",
+    "precio": "59",
+    "imagen": "img/adatamicrosd16gb.webp",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "103",
+    "nombre": "MEM ADATA AUSDX128GUI3V30SA2-RA1 MICRO SD 128GB U3 V30",
+    "existencias": "12",
+    "precio": "239",
+    "imagen": "img/adatapremierpro1282.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "104",
+    "nombre": "MEM ADATA AUSDX256GUICL10A1-RA1 MICRO SD 256GB",
+    "existencias": "2",
+    "precio": "470",
+    "imagen": "img/AdatamicrosdA1256.png",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "105",
+    "nombre": "MEM ADATA AUSDX64GUICL10A1-RA1 MICRO SD 64GB",
+    "existencias": "1",
+    "precio": "99",
+    "imagen": "img/adata64gbmicro.png",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "106",
+    "nombre": "MEM KINGSTON DTXM/64GB USB 3.2 64GB AZUL",
+    "existencias": "14",
+    "precio": "99",
+    "imagen": "img/Kingstonusb64gb.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "107",
+    "nombre": "MEM STYLOS STMUSB1B USB 8GB METALICA",
+    "existencias": "33",
+    "precio": "55",
+    "imagen": "img/stylos8gb.jpg",
+    "ficha_tecnica": "https://pimcontent1.ingrammicro.com/mx/assets/media/brochure/30_d0600bc_109607439.pdf"
+  },
+  {
+    "﻿id": "108",
+    "nombre": "MEM STYLOS STMUSB2B USB METALICA 16GB",
+    "existencias": "85",
+    "precio": "65",
+    "imagen": "img/stylos16gb.jpg",
+    "ficha_tecnica": "https://pimcontent1.ingrammicro.com/mx/assets/media/brochure/30_d0600bb_109536329.pdf"
+  },
+  {
+    "﻿id": "109",
+    "nombre": "MOU EASYLINE EL-994121 USB OPTICO 1200DPI",
+    "existencias": "6",
+    "precio": "60",
+    "imagen": "img/easymousee.jpg",
+    "ficha_tecnica": "https://pimcontent1.ingrammicro.com/mx/assets/media/brochure/a1700re_el-994121.pdf"
+  },
+  {
+    "﻿id": "110",
+    "nombre": "MOU HP 265A9UT ALAMBRICO USB OPTICO",
+    "existencias": "2",
+    "precio": "480",
+    "imagen": "img/hp1251.png",
+    "ficha_tecnica": "https://pimcontent1.ingrammicro.com/mx/assets/media/brochure/0b49718_265a9ut-mouse-hp-125.pdf"
+  },
+  {
+    "﻿id": "111",
+    "nombre": "MOU LENOVO GY50X88833 BLUETOOH SILENT",
+    "existencias": "1",
+    "precio": "319",
+    "imagen": "img/len6001.jpg",
+    "ficha_tecnica": "https://pimcontent1.ingrammicro.com/mx/assets/media/brochure/0b60236_0b60236_1.pdf"
+  },
+  {
+    "﻿id": "112",
+    "nombre": "MUL ELEGATE CH.104.A 4 TOMAS 3 USB 1 USB-C",
+    "existencias": "2",
+    "precio": "179",
+    "imagen": "img/elegatemulticontacto1.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "113",
+    "nombre": "PAP DIEM COPBDC OPALINA DOBLE CARTA BLANCA 225GR 100HJS",
+    "existencias": "16",
+    "precio": "419",
+    "imagen": "img/diemoficio.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "114",
+    "nombre": "PAP DIEM COPBTO OPALINA OFICIO BLANCA 225GR 100HJS",
+    "existencias": "8",
+    "precio": "189",
+    "imagen": "img/opaloficio.webp",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "115",
+    "nombre": "PAP EPSON S041111 MATE CARTA 100HJS",
+    "existencias": "8",
+    "precio": "299",
+    "imagen": "img/papepsonhigh.png",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "116",
+    "nombre": "PAP EPSON S041286 FOTOGRAFICO CARTA GLOSSY 255G 20HJS",
+    "existencias": "4",
+    "precio": "499",
+    "imagen": "img/Epson250g.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "117",
+    "nombre": "PAP EPSON S041331 SEMIGLOSS 20HJS TAMAÑO CARTA",
+    "existencias": "2",
+    "precio": "399",
+    "imagen": "img/epsonsemigloss.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "118",
+    "nombre": "PAP EPSON S041405 FOTOGRAFICO LUSTER CARTA 50HJS",
+    "existencias": "1",
+    "precio": "929",
+    "imagen": "img/luster2.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "119",
+    "nombre": "PAP EPSON S041464 PREMIUM GLOSSY 5X7 20HJS",
+    "existencias": "1",
+    "precio": "239",
+    "imagen": "img/papepson5x7.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "120",
+    "nombre": "PAP EPSON S041568 DOUBLE SIDED TAMAÑO CARTA 50HJS",
+    "existencias": "17",
+    "precio": "449",
+    "imagen": "img/doblesided.webp",
+    "ficha_tecnica": "https://pimcontent1.ingrammicro.com/mx/assets/media/brochure/iepv568_iepv568.pdf"
+  },
+  {
+    "﻿id": "121",
+    "nombre": "PAP GENERICO 100hjsDC DOBLE CARTA 75GR 100HJS",
+    "existencias": "10",
+    "precio": "96",
+    "imagen": "img/HojasDC1.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "122",
+    "nombre": "PAP HP Q8723A FOTO EVERYDAY CARTA 50HJS",
+    "existencias": "150",
+    "precio": "155",
+    "imagen": "img/HP1.jpg",
+    "ficha_tecnica": "https://pimcontent1.ingrammicro.com/mx/assets/media/brochure/7140cak_q8723a.pdf"
+  },
+  {
+    "﻿id": "123",
+    "nombre": "PAP IBM 17R7999 PLOTTER BOND 90 24\"X150FT ROLLO",
+    "existencias": "2",
+    "precio": "269",
+    "imagen": "img/ibmplot3.webp",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "124",
+    "nombre": "PAQ ELEGATE WD9327 12 FOLDERS PLASTICO CON 11 ESPACIOS",
+    "existencias": "2",
+    "precio": "69",
+    "imagen": "img/elegatefol.jpg",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "125",
+    "nombre": "PAS COOLERMASTER HTK-002-U1 TERMICA 1.5GR",
+    "existencias": "54",
+    "precio": "55",
+    "imagen": "img/pastacooler3.webp",
+    "ficha_tecnica": "https://fichastecnicas.pchmayoreo.com/HTK-002-U1.pdf"
+  },
+  {
+    "﻿id": "126",
+    "nombre": "SOP STARTECH USPTLSTNDB ESCRITORIO UNIVERSAL TABLET",
+    "existencias": "1",
+    "precio": "789",
+    "imagen": "img/soptab1.jpg",
+    "ficha_tecnica": "https://media.startech.com/cms/pdfs/usptlstndb_datasheet-mx.pdf"
+  },
+  {
+    "﻿id": "127",
+    "nombre": "SSD ADATA ASU630SS-480GQ-R 480GB 2.5 SATA",
+    "existencias": "1",
+    "precio": "829",
+    "imagen": "img/su630.webp",
+    "ficha_tecnica": ""
+  },
+  {
+    "﻿id": "128",
+    "nombre": "TEC PERFECTCHOICE PC-201038 ALAMBRICO USB",
+    "existencias": "2",
+    "precio": "129",
+    "imagen": "img/tecperfect.jpg",
+    "ficha_tecnica": "https://cdn.shopify.com/s/files/1/0341/2606/9900/files/PC-201038_FT.pdf?v=1587147043"
+  },
+  {
+    "﻿id": "129",
+    "nombre": "TRA ELEGATE FM.X8 FM BLUETOOTH PARA AUTO 2 USB",
+    "existencias": "1",
+    "precio": "80",
+    "imagen": "img/transblu2.webp",
+    "ficha_tecnica": ""
+  }
+]
